@@ -6,7 +6,7 @@ Este repositório contém os exercícios desenvolvidos durante o curso de **HTML
 
 Você pode acessar os exercícios online através do GitHub Pages:
 
-➡️ [https://reiisoficial.github.io/html-css/exercicios](https://reiisoficial.github.io/html-css/exercicios)
+➡️ [https://reiisoficial.github.io/html-css/](https://reiisoficial.github.io/html-css/)
 
 ## 📁 Conteúdo dos exercícios
 
