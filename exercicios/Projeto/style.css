@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Spice&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Special+Gothic&family=Winky+Rough:ital,wght@0,300..900;1,300..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+
+    background-color: #026873;
+}
+footer{
+    text-align: center;
+    background-color: #024059;
+    padding: 15px;
+    margin-top: 30px;
+    font-family: 'Bungee Spice';
+
+}
