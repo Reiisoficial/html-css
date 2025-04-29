@@ -1,22 +1,17 @@
-# Site do Módulo 3 - HTML5 e CSS3
+# Exercícios - Curso de HTML5 e CSS3
 
-Este repositório contém os arquivos do site desenvolvido no **Módulo 3** do curso de HTML5 e CSS3 do Curso em Vídeo.
+Este repositório contém os exercícios desenvolvidos durante o curso de **HTML5 e CSS3** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado por **Gustavo Guanabara**.
 
-## 🌐 Acesse o site
+## 🌐 Site publicado
 
-Você pode visualizar o site publicado aqui:
+Você pode acessar os exercícios online através do GitHub Pages:
 
-➡️ [https://reiisoficial.github.io/modulo3-html-css/](https://reiisoficial.github.io/modulo3-html-css/)
+➡️ [https://reiisoficial.github.io/html-css/exercicios](https://reiisoficial.github.io/html-css/exercicios)
 
-## 📁 Sobre o projeto
+## 📁 Conteúdo dos exercícios
 
-O projeto inclui:
+Os arquivos estão organizados por capítulo e acompanham a sequência do curso. Entre os temas abordados, estão:
 
-- Listas HTML (ordenadas, não ordenadas e de definição)
-- Links internos, externos e para download
-- Inserção de imagens
-- Técnicas de imagens responsivas (`width: 100%`, `srcset`, `<picture>`)
-
-## 👨‍💻 Autor
-
-Desenvolvido por [Wanderson Henrique Reis Luz](https://github.com/Reiisoficial)
+- Estrutura básica do HTML5
+- Formatação de texto
+- Listas ordenadas, não ordenadas e de
